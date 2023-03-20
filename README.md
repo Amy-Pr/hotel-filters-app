@@ -15,5 +15,5 @@ A React app that uses stateful components to render a data model. Filters throug
 </ul>
 
 
-Deployed from CodeSandbox to Netlify for [live link] (https://hotel-filters.netlify.app/)
+Deployed from CodeSandbox to Netlify for live link: https://hotel-filters.netlify.app/
 
