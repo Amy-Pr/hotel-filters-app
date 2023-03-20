@@ -1,5 +1,5 @@
 # hotel-filters-app
-Created with CodeSandbox
+Deployed from CodeSandbox to Netlify for live link: https://hotel-filters.netlify.app/
 
 <h1>Objective</h1>
 <p>
@@ -15,5 +15,5 @@ A React app that uses stateful components to render a data model. Filters throug
 </ul>
 
 
-Deployed from CodeSandbox to Netlify for live link: https://hotel-filters.netlify.app/
+
 
